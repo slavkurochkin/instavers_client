@@ -2,7 +2,7 @@
 
 Instavers is the project used for software testing purpose
 
-[Instavers](/src/images/instavers.gif?raw=true)
+![Instavers](/src/images/instavers.gif?raw=true)
 
 ## Available Scripts
 
