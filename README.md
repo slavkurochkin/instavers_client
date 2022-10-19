@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with Instavers
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Instavers is the project used for software testing purpose
+
+[Instavers](/src/images/instavers.gif?raw=true)
 
 ## Available Scripts
 

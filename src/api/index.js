@@ -15,9 +15,9 @@ api.interceptors.request.use((req) => {
 
 export const fetchStories = async () => api.get("/stories");
 export const createStory = async (story) => api.post("/stories", story);
-export const updateStory = async (id, story) => api.patch(`/stories"/${id}`, story);
+export const updateStory = async (id, story) => api.patch(`/stories/${id}`, story);
 export const deleteStory = async (id) => api.delete(`/stories/${id}`);
-export const likeStory = async (id) => api.patch(`stories/${id}/likeStory`);
+export const likeStory = async (id) => api.patch(`/stories/${id}/likeStory`);
 
 
 export const login = async (formValues) => api.post("/user/login", formValues);
